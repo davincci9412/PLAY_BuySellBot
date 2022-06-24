@@ -1,0 +1,9 @@
+.footer_linkgroup a {
+  color: black;
+  font-size: 14px;
+}
+
+.footer_linkgroup a:hover {
+  color: black;
+  text-decoration: underline;
+}

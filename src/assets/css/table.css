@@ -1,0 +1,15 @@
+table {
+  border-collapse: collapse;
+}
+
+table.token_table th,
+table.token_table td {
+  border-collapse: collapse;
+  border: 1px solid #dee2e6;
+  padding: 15px 10px;
+  vertical-align: center;
+}
+
+table.token_table th {
+  background-color: #e9ecef;
+}
